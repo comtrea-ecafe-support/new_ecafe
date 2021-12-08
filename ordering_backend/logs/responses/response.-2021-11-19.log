@@ -1,0 +1,351 @@
+[2021-11-19T22:12:39.919] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /user/login
+request client ip:  null
+request body: 
+{"us":"ceshi@ceshi.com","ps":"ceshi"}
+response time: 10
+response status: 200
+response body: 
+{"us":"ceshi@ceshi.com","ps":"ceshi"}
+*************** response log end ***************
+
+[2021-11-19T22:12:40.120] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /permit/menus
+request client ip:  null
+request body: 
+{}
+response time: 3
+response status: 200
+response body: 
+{}
+*************** response log end ***************
+
+[2021-11-19T22:12:43.879] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /permit/list
+request client ip:  null
+request body: 
+{}
+response time: 1
+response status: 200
+response body: 
+{}
+*************** response log end ***************
+
+[2021-11-19T22:12:44.337] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /role/page
+request client ip:  null
+request body: 
+{"pageNo":1,"pageSize":5}
+response time: 1
+response status: 200
+response body: 
+{"pageNo":1,"pageSize":5}
+*************** response log end ***************
+
+[2021-11-19T22:13:03.532] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /permit/update
+request client ip:  null
+request body: 
+{"id":2,"name":"111","fid":0,"path":"goods","level":0,"mark":"商品管理","sort":0,"_showChildren":true,"children":[],"_index":1,"_rowKey":2}
+response time: 0
+response status: 200
+response body: 
+{"id":2,"name":"111","fid":0,"path":"goods","level":0,"mark":"商品管理","sort":0,"_showChildren":true,"children":[],"_index":1,"_rowKey":2}
+*************** response log end ***************
+
+[2021-11-19T22:13:03.677] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /permit/list
+request client ip:  null
+request body: 
+{}
+response time: 0
+response status: 200
+response body: 
+{}
+*************** response log end ***************
+
+[2021-11-19T22:13:05.628] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /permit/list
+request client ip:  null
+request body: 
+{}
+response time: 1
+response status: 200
+response body: 
+{}
+*************** response log end ***************
+
+[2021-11-19T22:13:07.188] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /lang/page
+request client ip:  null
+request body: 
+{"pageNo":1,"pageSize":9999999}
+response time: 1
+response status: 200
+response body: 
+{"pageNo":1,"pageSize":9999999}
+*************** response log end ***************
+
+[2021-11-19T22:13:07.509] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /food/page
+request client ip:  null
+request body: 
+{"pageNo":1,"pageSize":5}
+response time: 1
+response status: 200
+response body: 
+{"pageNo":1,"pageSize":5}
+*************** response log end ***************
+
+[2021-11-19T22:13:32.450] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /permit/update
+request client ip:  null
+request body: 
+{"id":2,"name":"goods mannager","fid":0,"path":"goods","level":0,"mark":"goods mannager","sort":0,"_showChildren":true,"children":[],"_index":1,"_rowKey":2}
+response time: 1
+response status: 200
+response body: 
+{"id":2,"name":"goods mannager","fid":0,"path":"goods","level":0,"mark":"goods mannager","sort":0,"_showChildren":true,"children":[],"_index":1,"_rowKey":2}
+*************** response log end ***************
+
+[2021-11-19T22:13:32.472] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /permit/list
+request client ip:  null
+request body: 
+{}
+response time: 2
+response status: 200
+response body: 
+{}
+*************** response log end ***************
+
+[2021-11-19T22:13:34.415] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /permit/list
+request client ip:  null
+request body: 
+{}
+response time: 0
+response status: 200
+response body: 
+{}
+*************** response log end ***************
+
+[2021-11-19T22:15:20.793] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /user/login
+request client ip:  null
+request body: 
+{"us":"ceshi@ceshi.com","ps":"ceshi"}
+response time: 1
+response status: 200
+response body: 
+{"us":"ceshi@ceshi.com","ps":"ceshi"}
+*************** response log end ***************
+
+[2021-11-19T22:15:20.810] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /permit/menus
+request client ip:  null
+request body: 
+{}
+response time: 0
+response status: 200
+response body: 
+{}
+*************** response log end ***************
+
+[2021-11-19T22:16:09.872] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /lang/page
+request client ip:  null
+request body: 
+{"pageNo":1,"pageSize":9999999}
+response time: 1
+response status: 200
+response body: 
+{"pageNo":1,"pageSize":9999999}
+*************** response log end ***************
+
+[2021-11-19T22:16:12.392] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /lang/del
+request client ip:  null
+request body: 
+{"_id":"5f7ae1183f0f1a4f44d4c86e"}
+response time: 1
+response status: 200
+response body: 
+{"_id":"5f7ae1183f0f1a4f44d4c86e"}
+*************** response log end ***************
+
+[2021-11-19T22:16:12.475] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /lang/page
+request client ip:  null
+request body: 
+{"pageNo":1,"pageSize":9999999}
+response time: 1
+response status: 200
+response body: 
+{"pageNo":1,"pageSize":9999999}
+*************** response log end ***************
+
+[2021-11-19T22:16:13.784] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /lang/del
+request client ip:  null
+request body: 
+{"_id":"5f7ae1183f0f1a4f44d4c86f"}
+response time: 0
+response status: 200
+response body: 
+{"_id":"5f7ae1183f0f1a4f44d4c86f"}
+*************** response log end ***************
+
+[2021-11-19T22:16:13.793] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /lang/page
+request client ip:  null
+request body: 
+{"pageNo":1,"pageSize":9999999}
+response time: 1
+response status: 200
+response body: 
+{"pageNo":1,"pageSize":9999999}
+*************** response log end ***************
+
+[2021-11-19T22:16:16.277] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /lang/page
+request client ip:  null
+request body: 
+{"pageNo":1,"pageSize":9999999}
+response time: 1
+response status: 200
+response body: 
+{"pageNo":1,"pageSize":9999999}
+*************** response log end ***************
+
+[2021-11-19T22:21:18.019] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /permit/list
+request client ip:  null
+request body: 
+{}
+response time: 0
+response status: 200
+response body: 
+{}
+*************** response log end ***************
+
+[2021-11-19T22:21:18.210] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /role/page
+request client ip:  null
+request body: 
+{"pageNo":1,"pageSize":5}
+response time: 2
+response status: 200
+response body: 
+{"pageNo":1,"pageSize":5}
+*************** response log end ***************
+
+[2021-11-19T22:21:18.913] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /food/page
+request client ip:  null
+request body: 
+{"pageNo":1,"pageSize":5}
+response time: 0
+response status: 200
+response body: 
+{"pageNo":1,"pageSize":5}
+*************** response log end ***************
+
+[2021-11-19T22:23:34.490] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /role/page
+request client ip:  null
+request body: 
+{}
+response time: 1
+response status: 200
+response body: 
+{}
+*************** response log end ***************
+
+[2021-11-19T22:23:34.498] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /user/page
+request client ip:  null
+request body: 
+{"pageNo":1,"pageSize":5}
+response time: 1
+response status: 200
+response body: 
+{"pageNo":1,"pageSize":5}
+*************** response log end ***************
+
+[2021-11-19T22:23:43.209] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /food/page
+request client ip:  null
+request body: 
+{"key":"","typeid":"","pageNo":1,"pageSize":5}
+response time: 0
+response status: 200
+response body: 
+{"key":"","typeid":"","pageNo":1,"pageSize":5}
+*************** response log end ***************
+
+[2021-11-19T22:23:43.972] [INFO] responseLog - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /food/page
+request client ip:  null
+request body: 
+{"key":"","typeid":"","pageNo":1,"pageSize":5}
+response time: 0
+response status: 200
+response body: 
+{"key":"","typeid":"","pageNo":1,"pageSize":5}
+*************** response log end ***************
+

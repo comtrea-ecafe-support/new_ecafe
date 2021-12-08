@@ -1,0 +1,24 @@
+[2021-12-07T23:39:59.922] [INFO] responseLog - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /static/img/tudousi.jpg
+request client ip:  null
+request query:  {}
+response time: 5
+response status: 200
+response body: 
+{}
+*************** response log end ***************
+
+[2021-12-07T23:40:00.146] [INFO] responseLog - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /favicon.ico
+request client ip:  null
+request query:  {}
+response time: 21
+response status: 404
+response body: 
+{}
+*************** response log end ***************
+
